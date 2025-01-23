@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bloklinksangularlight';
+    src: url('bloklinksangular.eot');
+    src: url('bloklinksangular.eot?#iefix') format('embedded-opentype'),
+         url('bloklinksangular.woff2') format('woff2'),
+         url('bloklinksangular.woff') format('woff'),
+         url('bloklinksangular.ttf') format('truetype'),
+         url('bloklinksangular.svg#bloklinksangularlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
